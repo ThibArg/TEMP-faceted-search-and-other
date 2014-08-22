@@ -1,0 +1,10 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Name: eks-webengine-fs
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-Vendor: Nuxeo
+Bundle-Version: 5.9.6.qualifier
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: eks-webengine-fs
+Nuxeo-WebModule: org.nuxeo.ecm.webengine.app.WebEngineModule;name=EKSSearch;package=eks/webengine/fs
